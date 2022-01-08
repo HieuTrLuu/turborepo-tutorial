@@ -6,6 +6,11 @@
   "files": [
     "base.json",
     "nextjs.json",
-    "react-library.json"
+    "react-library.json",
+    "base-tmp.json",
+    "nextjs-tmp.json",
+    "expojs-tmp.json",
+    "react-library-tmp.json",
+    "react-native-tmp.json"
   ]
 }
